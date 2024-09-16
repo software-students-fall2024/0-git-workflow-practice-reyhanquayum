@@ -1,2 +1,8 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Link to Article
+
+[Data privacy and security in AI-driven testing
+](https://sdtimes.com/data/data-privacy-and-security-in-ai-driven-testing/)
+
+# My Thoughts on the Article
+
+Skepticism about AI's ability to generate meaningful test cases has an added concern about data privacy and security. The fear about intellectual property leaks, data permanenc, and inability of models to "unlearn" sensitive data raises serious questions. This obviously creates many issues, namely increased potential for illegal activity using AI models. 
